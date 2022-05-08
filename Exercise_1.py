@@ -1,5 +1,0 @@
-first_word = input('Введите первое слово: ')
-second_word = input('Введите второе слово: ')
-print(first_word + ', ' + second_word)
-print('{}, {}'.format(first_word, second_word))
-print(f'{first_word}, {second_word}')
